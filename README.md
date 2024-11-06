@@ -1,6 +1,4 @@
-안녕하세요! [박시환](https://velog.io/@psh4204) 입니다. 행복한 하루 되세요👏👍
+안녕하세요! 임베디드 개발자 박시환 입니다. ARM Cortex-M을 사랑하고 계속 공부하고싶습니다! 행복한 하루 되세요👏👍
+- [블로그](https://velog.io/@psh4204)
 
-<!---
-psh4204/psh4204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sihwan2222)](https://solved.ac/sihwan2222/)
